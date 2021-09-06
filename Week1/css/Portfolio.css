@@ -1,0 +1,190 @@
+#navbar{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:80px;
+    background-color:#111;
+  }
+  
+  #name{
+    float:left;
+    color:white;
+    padding:10px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #title-name{
+    font-size:60px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #subtitle{
+    font-size:30px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  nav ul{
+    padding:10px 40px;
+    float:right;
+  }
+    nav li {
+      display: inline;
+      margin-right: 20px;
+    }
+    a {
+      text-decoration: none;
+      color:white;
+      font-size:20px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  #welcome-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height:100vh;
+    background-image:url('https://images.unsplash.com/photo-1604964432806-254d07c11f32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80');
+    background-size: cover;
+    
+  }
+  
+  #aboutme{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    
+    height:100vh;
+    background-image:linear-gradient(45deg, #FFF 0%, #FFF 100%);
+    padding:20px;
+  }
+  
+  #aboutme-container{
+    width:70%;
+    height:80%;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .img-class{
+    width:50%;
+    height:80%;
+    border-radius:5%;
+    float:left;
+    margin-right:20px;
+    margin-left:20px;
+  }
+  
+  #aboutme-info{
+    width:40%;
+    float:left;
+    font-size:18px;
+    text-align:justify;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  #projects{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    width:100%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #2d3031;
+  }
+  
+  #project-cards{
+    display: flex;
+    flex-direction:row;
+    width:100%;
+    
+  }
+  
+  .project-tile{
+    width:25%;
+    height:100%;
+    margin-left:5%;
+    margin-bottom: 10px;
+    background-image:linear-gradient(45deg, rgb(39, 40, 44) 0%, rgb(72, 65, 80) 100%); 
+    border-radius:10px;
+    
+    
+      
+  }
+  .project-title{
+    display:block;
+    text-align:center;
+  }
+  .project-desc{
+    text-align:justify;
+    margin:5px;
+  }
+  
+  
+  #profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    height:50vh;
+    background-image:linear-gradient(45deg, rgb(54, 54, 83) 0%, rgb(27, 28, 29) 100%);
+  }
+
+  #profile-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width:60%;
+    height:70%;
+  }
+
+  .logo{
+    float:left;
+    margin-left: 10px;
+    width: 100px;
+    height:100px;
+  }
+
+  #git-profile-link{
+    background-image:linear-gradient(45deg, #50F 0%, rgb(166, 22, 185) 100%);
+    width: 300px;
+    text-align: center;
+    margin:20px;
+    padding:20px;
+    border-radius: 10px;
+    height:40%;
+
+  }
+  #linked-profile-link{
+    background-image:linear-gradient(45deg, #F0F 0%, rgb(216, 156, 77) 100%);
+    width: 300px;
+    margin:20px;
+    padding:20px;
+    text-align: center;
+    border-radius: 10px;
+    height:40%;
+
+  }
+  
+  @media (max-width: 450px) {
+      #projects{
+        height:100vh;
+      }
+     
+    }
+  
+    @media (max-width: 350px) {
+      #projects{
+        height:150vh;
+      }
+     
+    }
+
+  
+  
