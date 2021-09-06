@@ -13,5 +13,5 @@ In this task we have designed two webpages by using HTML and CSS without using a
 ### Tribute Page
 ![Tribute Page](https://github.com/mrehanali127/Rehan_FYP/blob/main/Week1/Tribute%20Page.png)
 ### Portfolio Page
-
+![Portfolio Page](https://github.com/mrehanali127/Rehan_FYP/blob/main/Week1/Portfolio%20Page.png)
 
