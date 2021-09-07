@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+        <item android:title="Home" android:id="@+id/homeScreen"/>
+        <item android:title="Calls and SMS Counts" android:id="@+id/callsCounts"/>
+        <item android:title="Top Locations" android:id="@+id/locationsCalls"/>
+        <item android:title="Prominent Contacts" android:id="@+id/prominantContacts"/>
+        <item android:title="Search Reciever Details" android:id="@+id/receiverCalls"/>
+        <item android:title="Help"  android:id="@+id/btnHelp"/>
+    </group>
+</menu>
