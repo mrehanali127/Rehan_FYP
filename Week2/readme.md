@@ -22,6 +22,17 @@ Rendering Engine for modern web Browsers:
 <li>Chrome, Opera (15 onwards) — Blink</li>
 <li>Internet Explorer — Trident</li>
 
+ #### -> Trident
+Trident engine was first seen with Internet Explorer 4.0 and due to its remarkable performance, it has been used in full-fledged today. This engine has been exclusively designed for the Windows Operating System and developed by Microsoft. Especially for software developers which would ease the web browsing functionality within the Windows Operating System. Besides, Trident has been used as an engine in web browsers(Internet Explorer). It has also got its applications in software that has direct integration with web browsing like as Google Chrome Browser, Maxthon etc.
+#### -> Blink
+Blink engine is used in the most popular web browser that is Google Chrome. It is developed as part of the Chromium project with contributions from Google, Opera Software and Adobe. Initially, the Blink engine was used on Google Chrome and Chromium browsers. However recently Blink engine is gaining more popularity, it is been used on Microsoft Edge, Opera Browser, Avast Secure Browser.
+#### -> Gecko
+Gecko engine is developed by Mozilla and It is used in the Firefox browser. And the fact it Gecko engine is an open-source software project. That makes the developers drive into its further development.
+#### -> Webkit
+It has a major contribution to Apple, Nokia, and WebKit foundation as well as other industries.
+Recently Google came with Chrome browser that features WebKit engine as is used in the Android mobile phone for the first time in Google Chrome version.
+It has been this recently that WebKit has been seen in any Android version, however, it has a good amount of contribution in Apples iPhone, iPod and is responsible to render content and email software within the web browser.
+
 ### JS Engine
 The JS engine begins parsing the code right away after fetching from the server feeding into the JS parser. It converts them into the representative object the machine understands. The object that stores all the parser information in the tree representation of the abstract syntactic structure is called an object syntax tree (AST). The objects are fed into an interpreter which translates those objects into byte code.
 These are Just In Time (JITs) compiler meaning JavaScript files downloaded from the server is compiled in real-time on the client’s computer. The interpreter and compiler are combined. The interpreter executes source code almost immediately; the compiler generates machine code which the client system executes directly.
