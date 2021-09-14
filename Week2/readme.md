@@ -42,7 +42,22 @@ Different Browser uses different JS Engine:
 <li>Microsoft Edge — Chakra</li>
 <li>Safari — JavaScriptCore / Nitro WebKit</li>
 
+# Different Web Browsers
+The web browser is an application that provides access to the webserver, sends a network request to URL, obtain resources, and interactively represent them. Common Browsers today include Firefox, Google Chrome, Safari, Internet Explorer and Opera.
+![alt text](https://miro.medium.com/max/1000/1*9hjgVPLRAuxEM_3spfkI5g.png)
+
+### -> Internet Explorer
+Internet Explorer (IE) is a product from software giant Microsoft. This is the most commonly used browser in the universe. This was introduced in 1995 along with Windows 95 launch and it has passed Netscape popularity in 1998.
+### -> Chrome
+This web browser is developed by Google and its beta version was first released on September 2, 2008 for Microsoft Windows. Today, chrome is known to be one of the most popular web browser with its global share of more than 50%. Google Chrome is the most popular browser that people use today. The main reason for this is its speed. It’s a fast browser. It opens quickly and loads multiple tabs and pages in just one click. It’s probably the fastest browser available today. If you’re tired of waiting for your browser to open after clicking on its icon, you should switch to Chrome.
+### -> Firefox
+Firefox is a new browser derived from Mozilla. It was released in 2004 and has grown to be the second most popular browser on the Internet. The new Firefox consumes less RAM than Chrome and is faster than its previous versions. But there’s one problem with Firefox – it drains battery very quickly. So if you’re on a laptop, watching HD videos, it’s best to use Edge instead of Firefox because Firefox will eat up that battery in no time.
+### -> Safari
+Safari is a web browser developed by Apple Inc. and included in Mac OS X. It was first released as a public beta in January 2003. Safari has very good support for latest technologies like XHTML, CSS2 etc. Safari is a simple and clean browser with several features that make it a popular choice. It offers all the basic functionalities – the ability to open multiple tabs, easy bookmarking, fast speeds, and a plugin library. 
+While Safari is mostly used on Mac, it can also be used on a PC. But on PC, Safari will be like just another browser. However, if you use Mac and iPhones, you’ll love the cross-platform compatibility that it offers. You’ll be able to integrate your data across multiple platforms if you use Safari. 
+
 ## References
 <li>https://medium.com/@monica1109/how-does-web-browsers-work-c95ad628a509</li>
+<li>https://medium.com/@bibekshah09/how-do-web-browsers-work-1245d5b06c51</li>
 <li>https://www.thecoderworld.com/types-of-browser-engines/</li>
 
