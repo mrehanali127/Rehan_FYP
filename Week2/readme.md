@@ -56,8 +56,39 @@ Firefox is a new browser derived from Mozilla. It was released in 2004 and has g
 Safari is a web browser developed by Apple Inc. and included in Mac OS X. It was first released as a public beta in January 2003. Safari has very good support for latest technologies like XHTML, CSS2 etc. Safari is a simple and clean browser with several features that make it a popular choice. It offers all the basic functionalities – the ability to open multiple tabs, easy bookmarking, fast speeds, and a plugin library. 
 While Safari is mostly used on Mac, it can also be used on a PC. But on PC, Safari will be like just another browser. However, if you use Mac and iPhones, you’ll love the cross-platform compatibility that it offers. You’ll be able to integrate your data across multiple platforms if you use Safari. 
 
+# How HTML, CSS and JS work together?
+For Web development these three are main technologies which are main building blocks for any kind of web development. One is HTML, Second is CSS and last one is Javascript.
+This corresponds to the three different types of files
+ that you can use in your first website.<br>
+An HTML file contains the structure of the page itself.
+ It is kind of like the structure of the building.<br>
+A CSS file contains the styling of the page.
+ It allows you to change colors, positioning and more.
+ It is kind of like the design of the building itself.<br>
+A JavaScript file determines the dynamic and interactive
+ elements on the page. It determines what happens
+ when users click, hover, or type within certain elements.
+ This is kind of like the functionality of the building.<br>
+ ![Web Page](https://miro.medium.com/max/700/1*5GAPClpa09DmNcCslMA23Q.png)
+ 
+ Let’s take the example from real world like houses in big cities. For example, A house has two bedrooms,
+ two bathrooms, and two stories. That is the HTML of the building.
+It is made of brick and has a solid wood door.
+ That corresponds to the CSS of the building.
+What can you do within the house? You can eat, sleep,
+ make meals… anything that you do at home, really!
+ That is the JavaScript of the building.
+ ![House](https://miro.medium.com/max/700/1*3GaOb3tSGoZe4DjTZg9VXQ.png)
+ 
+ ## How they work together?
+ Here’s how they work together. HTML tags create objects; CSS properties design that object; JavaScript lets you manipulate those objects.
+ For example, you use the HTML and tags to create a Web page, or document. To design webpage, CSS will be used, after that document is created, you can interact with it by using JavaScript.<br>
+ The browser knows how to interpret the three different technologies. HTML marks up content according to different structural types like paragraphs, lists, blocks, images, tables, forms, comments, etc. CSS is used to tell the browser how the each type of element will be displayed. The way elements will be displayed may vary according to media, screen, print and handheld device. JavaScript tells the browser how the web page must be changed in response to events that happen like clicking on something or when value is changed in form input.
+
+
 ## References
 <li>https://medium.com/@monica1109/how-does-web-browsers-work-c95ad628a509</li>
 <li>https://medium.com/@bibekshah09/how-do-web-browsers-work-1245d5b06c51</li>
 <li>https://www.thecoderworld.com/types-of-browser-engines/</li>
+<li>https://medium.com/free-code-camp/the-relationship-between-html-css-and-javascript-explained-by-building-a-city-a73a69c6343</li>
 
